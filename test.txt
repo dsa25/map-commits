@@ -19,6 +19,7 @@ branch develop-test
 >>>>>>> develop-test
 
 
+<<<<<<< HEAD
 merging develop-test in develop
 
 
@@ -26,3 +27,6 @@ merging develop-test in develop
 new commits for reset
 
 new two two two
+=======
+merging develop-test in develop
+>>>>>>> parent of 4d1c7a5... new commit
