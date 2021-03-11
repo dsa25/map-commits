@@ -26,7 +26,11 @@ merging develop-test in develop
 
 new commits for reset
 
+<<<<<<< HEAD
 new two two two
 =======
 merging develop-test in develop
 >>>>>>> parent of 4d1c7a5... new commit
+=======
+new two commits
+>>>>>>> parent of 66c0f49... commit in github
